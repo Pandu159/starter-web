@@ -4,11 +4,10 @@
 # TEAM
 
 	Amanda Barger	amandabarger1@gmail.com	@abarger
-    <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    All my students!
 
 # TECHNOLOGY COLOPHON
 
